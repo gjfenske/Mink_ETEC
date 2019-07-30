@@ -5,3 +5,9 @@ Supplemental Data from Manuscript : "Farmed Mink as a Zoonotic Reservoir for Ent
 ## Data Structure
 
 ### Tree Files
+
+
+### Annotation Files
+
+
+### Metadata
