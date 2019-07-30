@@ -1,0 +1,6 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT
+ESC_CB1462AA_AS.fasta	ESC_CB1462AA_AS_NODE_11_length_134192_cov_44.886219	4707	5840	blaEC-13	1-1134/1134	===============	0/0	100.00	99.91	ncbi	A7J11_00180	ncbi~~~blaEC-13~~~A7J11_00180 class C extended-spectrum beta-lactamase EC-13
+ESC_CB1462AA_AS.fasta	ESC_CB1462AA_AS_NODE_46_length_28489_cov_40.883012	19498	19853	tet(34)	66-421/465	.=======/=====.	2/2	76.34	75.35	ncbi	A7J11_00001	ncbi~~~tet(34)~~~A7J11_00001 oxytetracycline resistance phosphoribosyltransferase domain-containing protein Tet(34)
+ESC_CB1462AA_AS.fasta	ESC_CB1462AA_AS_NODE_91_length_3004_cov_87.448731	827	1669	aph(6)-Ic	1-843/843	===============	0/0	100.00	100.00	ncbi	A7J11_00304	ncbi~~~aph(6)-Ic~~~A7J11_00304 aminoglycoside O-phosphotransferase APH(6)-Ic
+ESC_CB1462AA_AS.fasta	ESC_CB1462AA_AS_NODE_91_length_3004_cov_87.448731	1666	2046	ble	1-381/381	===============	0/0	100.00	100.00	ncbi	A7J11_00750	ncbi~~~ble~~~A7J11_00750 bleomycin binding protein BLMT
+ESC_CB1462AA_AS.fasta	ESC_CB1462AA_AS_NODE_91_length_3004_cov_87.448731	2067	2861	aph(3')-IIa	1-795/795	===============	0/0	100.00	100.00	ncbi	A7J11_00349	ncbi~~~aph(3')-IIa~~~A7J11_00349 aminoglycoside O-phosphotransferase APH(3')-IIa
