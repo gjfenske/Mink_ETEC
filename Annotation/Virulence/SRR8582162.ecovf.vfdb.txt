@@ -1,0 +1,230 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT
+SRR8582162.fasta	contig00001	10196	10981	fliR	1-786/786	===============	0/0	100.00	97.58	ecoli_vf	gi:15802385	ecoli_vf~~~fliR~~~gi:15802385 flagellar biosynthesis protein FliR
+SRR8582162.fasta	contig00001	10990	11259	fliQ	1-270/270	===============	0/0	100.00	97.04	ecoli_vf	gi:15802384	ecoli_vf~~~fliQ~~~gi:15802384 flagellar biosynthesis protein FliQ
+SRR8582162.fasta	contig00001	11269	12006	fliP	1-738/738	===============	0/0	100.00	98.92	ecoli_vf	gi:15802383	ecoli_vf~~~fliP~~~gi:15802383 flagellar biosynthesis protein FliP
+SRR8582162.fasta	contig00001	12006	12371	fliO	1-366/366	===============	0/0	100.00	99.73	ecoli_vf	gi:161367586	ecoli_vf~~~fliO~~~gi:161367586 flagellar biosynthesis protein FliO
+SRR8582162.fasta	contig00001	12374	12787	fliN	1-414/414	===============	0/0	100.00	98.79	ecoli_vf	gi:15802381	ecoli_vf~~~fliN~~~gi:15802381 flagellar motor switch protein FliN
+SRR8582162.fasta	contig00001	12784	13788	fliM	1-1005/1005	===============	0/0	100.00	98.51	ecoli_vf	gi:15802380	ecoli_vf~~~fliM~~~gi:15802380 flagellar motor switch protein FliM
+SRR8582162.fasta	contig00001	13793	14257	fliL	1-465/465	===============	0/0	100.00	98.50	ecoli_vf	gi:15802379	ecoli_vf~~~fliL~~~gi:15802379 flagellar basal body-associated protein FliL
+SRR8582162.fasta	contig00001	14362	15489	fliK	1-1128/1128	===============	0/0	100.00	97.96	ecoli_vf	gi:15802378	ecoli_vf~~~fliK~~~gi:15802378 flagellar hook-length control protein
+SRR8582162.fasta	contig00001	15486	15929	fliJ	1-444/444	===============	0/0	100.00	100.00	ecoli_vf	gi:15802377	ecoli_vf~~~fliJ~~~gi:15802377 flagellar biosynthesis chaperone
+SRR8582162.fasta	contig00001	15948	17321	fliI	1-1374/1374	===============	0/0	100.00	98.62	ecoli_vf	gi:161367587	ecoli_vf~~~fliI~~~gi:161367587 flagellum-specific ATP synthase
+SRR8582162.fasta	contig00001	17321	18007	fliH	1-687/687	===============	0/0	100.00	98.11	ecoli_vf	gi:161367588	ecoli_vf~~~fliH~~~gi:161367588 flagellar assembly protein H
+SRR8582162.fasta	contig00001	18000	18995	fliG	1-996/996	===============	0/0	100.00	99.20	ecoli_vf	gi:15802374	ecoli_vf~~~fliG~~~gi:15802374 flagellar motor switch protein G
+SRR8582162.fasta	contig00001	18988	20646	fliF	1-1659/1659	===============	0/0	100.00	98.67	ecoli_vf	gi:15802373	ecoli_vf~~~fliF~~~gi:15802373 flagellar MS-ring protein
+SRR8582162.fasta	contig00001	20861	21175	fliE	1-315/315	===============	0/0	100.00	96.83	ecoli_vf	gi:15802372	ecoli_vf~~~fliE~~~gi:15802372 flagellar hook-basal body protein FliE
+SRR8582162.fasta	contig00001	25977	26342	fliT	1-366/366	===============	0/0	100.00	97.00	ecoli_vf	gi:15802361	ecoli_vf~~~fliT~~~gi:15802361 flagellar biosynthesis protein FliT
+SRR8582162.fasta	contig00001	26342	26752	fliS	1-411/411	===============	0/0	100.00	98.05	ecoli_vf	gi:15802360	ecoli_vf~~~fliS~~~gi:15802360 flagellar protein FliS
+SRR8582162.fasta	contig00001	26777	28183	fliD	1-1398/1398	========/======	1/9	100.00	97.66	ecoli_vf	gi:15802359	ecoli_vf~~~fliD~~~gi:15802359 flagellar capping protein
+SRR8582162.fasta	contig00001	28449	28942	fliC	1-494/1758	=====..........	0/0	28.10	89.88	ecoli_vf	gi:15802358	ecoli_vf~~~fliC~~~gi:15802358 flagellin
+SRR8582162.fasta	contig00001	29440	29711	fliC	1487-1758/1758	............===	0/0	15.47	89.34	ecoli_vf	gi:15802358	ecoli_vf~~~fliC~~~gi:15802358 flagellin
+SRR8582162.fasta	contig00001	29732	29854	entD	15-137/771	===...../......	3/4	15.69	84.00	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00001	30031	30750	fliA	1-720/720	===============	0/0	100.00	99.03	ecoli_vf	gi:15802357	ecoli_vf~~~fliA~~~gi:15802357 flagellar biosynthesis sigma factor
+SRR8582162.fasta	contig00001	30760	31347	fliZ	1-588/588	===============	0/0	100.00	98.13	ecoli_vf	gi:15802356	ecoli_vf~~~fliZ~~~gi:15802356 flagella biosynthesis protein FliZ
+SRR8582162.fasta	contig00001	31435	32235	fliY	1-801/801	===============	0/0	100.00	97.63	ecoli_vf	gi:15802355	ecoli_vf~~~fliY~~~gi:15802355 cystine transporter subunit
+SRR8582162.fasta	contig00001	52837	53196	flhD	1-360/360	===============	0/0	100.00	98.61	ecoli_vf	gi:15802304	ecoli_vf~~~flhD~~~gi:15802304 transcriptional activator FlhD
+SRR8582162.fasta	contig00001	53199	53777	flhC	1-579/579	===============	0/0	100.00	99.48	ecoli_vf	gi:15802303	ecoli_vf~~~flhC~~~gi:15802303 transcriptional activator FlhC
+SRR8582162.fasta	contig00001	53904	54791	motA	1-888/888	===============	0/0	100.00	99.10	ecoli_vf	gi:15802302	ecoli_vf~~~motA~~~gi:15802302 flagellar motor protein MotA
+SRR8582162.fasta	contig00001	54788	55714	motB	1-927/927	===============	0/0	100.00	97.95	ecoli_vf	gi:15802301	ecoli_vf~~~motB~~~gi:15802301 flagellar motor protein MotB
+SRR8582162.fasta	contig00001	55719	57683	cheA	1-1965/1965	===============	0/0	100.00	99.39	ecoli_vf	gi:15802300	ecoli_vf~~~cheA~~~gi:15802300 chemotaxis protein CheA
+SRR8582162.fasta	contig00001	57704	58207	cheW	1-504/504	===============	0/0	100.00	98.61	ecoli_vf	gi:15802299	ecoli_vf~~~cheW~~~gi:15802299 purine-binding chemotaxis protein
+SRR8582162.fasta	contig00001	58352	60013	tar/cheM	1-1662/1662	===============	0/0	100.00	98.14	ecoli_vf	gi:15802298	ecoli_vf~~~tar/cheM~~~gi:15802298 methyl-accepting chemotaxis protein II
+SRR8582162.fasta	contig00001	61679	62539	cheR	1-861/861	===============	0/0	100.00	99.30	ecoli_vf	gi:15802296	ecoli_vf~~~cheR~~~gi:15802296 chemotaxis methyltransferase CheR
+SRR8582162.fasta	contig00001	62542	63591	cheB	1-1050/1050	===============	0/0	100.00	98.48	ecoli_vf	gi:15802295	ecoli_vf~~~cheB~~~gi:15802295 chemotaxis-specific methylesterase
+SRR8582162.fasta	contig00001	63606	63995	cheY	1-390/390	===============	0/0	100.00	99.23	ecoli_vf	gi:15802294	ecoli_vf~~~cheY~~~gi:15802294 chemotaxis regulatory protein CheY
+SRR8582162.fasta	contig00001	64006	64650	cheZ	1-645/645	===============	0/0	100.00	99.38	ecoli_vf	gi:15802293	ecoli_vf~~~cheZ~~~gi:15802293 chemotaxis regulator CheZ
+SRR8582162.fasta	contig00001	64852	66000	flhB	1-1149/1149	===============	0/0	100.00	98.43	ecoli_vf	gi:15802292	ecoli_vf~~~flhB~~~gi:15802292 flagellar biosynthesis protein FlhB
+SRR8582162.fasta	contig00001	65993	68069	flhA	1-2077/2079	===============	0/0	99.90	98.36	ecoli_vf	gi:15802291	ecoli_vf~~~flhA~~~gi:15802291 flagellar biosynthesis protein FlhA
+SRR8582162.fasta	contig00001	68071	68463	flhE	1-393/393	===============	0/0	100.00	96.95	ecoli_vf	gi:15802290	ecoli_vf~~~flhE~~~gi:15802290 flagellar protein
+SRR8582162.fasta	contig00001	76504	76615	entD	15-126/771	===...../......	2/2	14.40	90.27	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00001	227754	227875	entD	10-131/771	===...../......	2/2	15.69	82.11	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00001	246010	247905	espL1	1-1899/1899	========/======	1/3	99.84	94.84	ecoli_vf	gi:15831681	ecoli_vf~~~espL1~~~gi:15831681 hypothetical protein
+SRR8582162.fasta	contig00002	30627	31622	flk	1-996/996	===============	0/0	100.00	99.00	ecoli_vf	gi:15802868	ecoli_vf~~~flk~~~gi:15802868 flagella biosynthesis regulator
+SRR8582162.fasta	contig00003	97568	98008	ppdD	1-441/441	===============	0/0	100.00	98.64	ecoli_vf	gi:15799792	ecoli_vf~~~ppdD~~~gi:15799792 putative major pilin subunit
+SRR8582162.fasta	contig00003	98018	99403	hofB	1-1386/1386	===============	0/0	100.00	97.62	ecoli_vf	gi:15799791	ecoli_vf~~~hofB~~~gi:15799791 hypothetical protein
+SRR8582162.fasta	contig00003	99393	100595	hofC	1-1203/1203	===============	0/0	100.00	97.76	ecoli_vf	gi:15799790	ecoli_vf~~~hofC~~~gi:15799790 type IV pilin biogenesis protein
+SRR8582162.fasta	contig00004	5992	7047	hlyE	1-1056/1056	===============	0/0	100.00	98.58	ecoli_vf	gi:209398688	ecoli_vf~~~hlyE~~~gi:209398688 hemolysin E
+SRR8582162.fasta	contig00007	107742	108626	ECS88_3547	1-885/885	===============	0/0	100.00	99.77	ecoli_vf	gi:218560235	ecoli_vf~~~ECS88_3547~~~gi:218560235 lipoprotein NlpI
+SRR8582162.fasta	contig00008	28062	29042	yggr	1-981/981	===============	0/0	100.00	95.72	ecoli_vf	SPG000074	ecoli_vf~~~yggr~~~SPG000074 Retraction ATPase Adherence Hemorrhagic coli pilus
+SRR8582162.fasta	contig00009	126	1805	ehaB	1270-2949/2949	......=========	0/0	56.97	98.99	ecoli_vf	gi:222155165	ecoli_vf~~~ehaB~~~gi:222155165 structural protein
+SRR8582162.fasta	contig00009	38281	38416	entD	1-136/771	===...../......	4/4	17.38	82.61	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00009	99552	99677	entD	1-126/771	===...../......	2/2	16.21	88.19	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00010	35481	35593	entD	2-114/771	===...../......	2/2	14.53	88.60	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00010	74827	74962	entD	1-136/771	===...../......	2/2	17.51	83.21	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00010	104019	104140	entD	1-132/771	===...../......	2/12	15.69	84.96	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00011	3052	3273	cah	1-221/3018	==....../......	1/1	7.32	89.64	ecoli_vf	gi:15801137	ecoli_vf~~~cah~~~gi:15801137 putative adhesin
+SRR8582162.fasta	contig00011	9793	10395	fimB	1-603/603	===============	0/0	100.00	99.50	ecoli_vf	gi:260858480	ecoli_vf~~~fimB~~~gi:260858480 tyrosine recombinase
+SRR8582162.fasta	contig00011	10873	11469	fimE	1-597/597	===============	0/0	100.00	98.83	ecoli_vf	gi:218561489	ecoli_vf~~~fimE~~~gi:218561489 tyrosine recombinase
+SRR8582162.fasta	contig00011	11893	12504	fimA	1-612/612	===============	0/0	100.00	95.92	ecoli_vf	gi:117626622	ecoli_vf~~~fimA~~~gi:117626622 type 1 fimbriae major subunit FimA
+SRR8582162.fasta	contig00011	12451	13108	fimI	6-663/663	===============	0/0	99.25	98.94	ecoli_vf	gi:117626623	ecoli_vf~~~fimI~~~gi:117626623 FimI fimbrial protein
+SRR8582162.fasta	contig00011	13145	13870	fimC	1-726/726	===============	0/0	100.00	99.45	ecoli_vf	gi:386622104	ecoli_vf~~~fimC~~~gi:386622104 Periplasmic chaperone FimC
+SRR8582162.fasta	contig00011	13937	16573	fimD	1-2637/2637	===============	0/0	100.00	99.43	ecoli_vf	gi:218703016	ecoli_vf~~~fimD~~~gi:218703016 outer membrane usher protein type 1 fimbrial synthesis
+SRR8582162.fasta	contig00011	16583	17113	fimF	1-531/531	===============	0/0	100.00	99.81	ecoli_vf	gi:260871040	ecoli_vf~~~fimF~~~gi:260871040 minor component FimF of type 1 fimbriae
+SRR8582162.fasta	contig00011	17126	17629	fimG	1-504/504	===============	0/0	100.00	99.41	ecoli_vf	gi:16132140	ecoli_vf~~~fimG~~~gi:16132140 minor component of type 1 fimbriae
+SRR8582162.fasta	contig00011	17649	18551	fimH	1-903/903	===============	0/0	100.00	99.89	ecoli_vf	gi:16132141	ecoli_vf~~~fimH~~~gi:16132141 minor component of type 1 fimbriae
+SRR8582162.fasta	contig00011	38794	38934	entD	1-141/771	===...../......	2/2	18.16	80.28	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00011	56369	57093	tar/cheM	790-1514/1662	.......=======.	0/0	43.62	76.55	ecoli_vf	gi:15802298	ecoli_vf~~~tar/cheM~~~gi:15802298 methyl-accepting chemotaxis protein II
+SRR8582162.fasta	contig00011	127975	129396	espX1	1-1422/1422	===============	0/0	100.00	94.73	ecoli_vf	gi:260866172	ecoli_vf~~~espX1~~~gi:260866172 T3SS effector-like protein EspX
+SRR8582162.fasta	contig00012	25223	25342	entD	14-132/771	===...../......	3/3	15.30	92.56	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00012	41915	42049	entD	1-136/771	===...../......	2/3	17.38	88.32	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00012	74486	75529	nada	1-1044/1044	===============	0/0	100.00	99.52	ecoli_vf	SPG000048	ecoli_vf~~~nada~~~SPG000048 Escherichia coli str. K-12 substr. MG1655 complete genome
+SRR8582162.fasta	contig00012	86723	86858	entD	3-137/771	===...../......	3/3	17.38	81.75	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00013	5043	5876	csgG	1-834/834	===============	0/0	100.00	98.32	ecoli_vf	gi:15801154	ecoli_vf~~~csgG~~~gi:15801154 curli production assembly/transport component 2nd curli operon
+SRR8582162.fasta	contig00013	5903	6319	csgF	1-417/417	===============	0/0	100.00	99.76	ecoli_vf	gi:15801155	ecoli_vf~~~csgF~~~gi:15801155 curli assembly protein CsgF
+SRR8582162.fasta	contig00013	6344	6733	csgE	1-390/390	===============	0/0	100.00	99.23	ecoli_vf	gi:15801156	ecoli_vf~~~csgE~~~gi:15801156 curli assembly protein CsgE
+SRR8582162.fasta	contig00013	6738	7388	csgD	1-651/651	===============	0/0	100.00	99.23	ecoli_vf	VFG045791	ecoli_vf~~~csgD~~~VFG045791 putative 2-component transcriptional regulator for 2nd curli operon
+SRR8582162.fasta	contig00013	8115	8597	csgB	1-483/483	===============	0/0	100.00	99.59	ecoli_vf	VFG045792	ecoli_vf~~~csgB~~~VFG045792 minor curlin subunit CsgB
+SRR8582162.fasta	contig00013	8638	9093	csgA	1-459/459	========/======	1/3	99.35	93.03	ecoli_vf	gi:15801159	ecoli_vf~~~csgA~~~gi:15801159 cryptic curlin major subunit
+SRR8582162.fasta	contig00013	9152	9484	csgC	1-333/333	===============	0/0	100.00	98.50	ecoli_vf	VFG045794	ecoli_vf~~~csgC~~~VFG045794 putative curli production protein CsgC
+SRR8582162.fasta	contig00013	17607	17718	entD	3-114/771	===...../......	2/2	14.40	88.50	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00013	33608	34024	flgN	1-417/417	===============	0/0	100.00	98.32	ecoli_vf	gi:15801187	ecoli_vf~~~flgN~~~gi:15801187 flagella synthesis protein FlgN
+SRR8582162.fasta	contig00013	34398	35057	flgA	1-660/660	===============	0/0	100.00	97.27	ecoli_vf	gi:15801189	ecoli_vf~~~flgA~~~gi:15801189 flagellar basal body P-ring biosynthesis protein FlgA
+SRR8582162.fasta	contig00013	35212	35628	flgB	1-417/417	===============	0/0	100.00	99.28	ecoli_vf	gi:15801190	ecoli_vf~~~flgB~~~gi:15801190 flagellar basal body rod protein FlgB
+SRR8582162.fasta	contig00013	35632	36036	flgC	1-405/405	===============	0/0	100.00	98.52	ecoli_vf	gi:15801191	ecoli_vf~~~flgC~~~gi:15801191 flagellar basal body rod protein FlgC
+SRR8582162.fasta	contig00013	36048	36743	flgD	1-696/696	===============	0/0	100.00	98.85	ecoli_vf	gi:15801192	ecoli_vf~~~flgD~~~gi:15801192 flagellar basal body rod modification protein
+SRR8582162.fasta	contig00013	36768	37973	flgE	1-1206/1206	===============	0/0	100.00	98.34	ecoli_vf	gi:15801193	ecoli_vf~~~flgE~~~gi:15801193 flagellar hook protein FlgE
+SRR8582162.fasta	contig00013	37993	38748	flgF	1-756/756	===============	0/0	100.00	98.15	ecoli_vf	gi:15801194	ecoli_vf~~~flgF~~~gi:15801194 flagellar basal body rod protein FlgF
+SRR8582162.fasta	contig00013	38886	39668	flgG	1-783/783	===============	0/0	100.00	99.36	ecoli_vf	gi:15801195	ecoli_vf~~~flgG~~~gi:15801195 flagellar basal body rod protein FlgG
+SRR8582162.fasta	contig00013	39721	40419	flgH	1-699/699	===============	0/0	100.00	99.57	ecoli_vf	gi:15801196	ecoli_vf~~~flgH~~~gi:15801196 flagellar basal body L-ring protein
+SRR8582162.fasta	contig00013	40431	41528	flgI	1-1098/1098	===============	0/0	100.00	97.72	ecoli_vf	gi:15801197	ecoli_vf~~~flgI~~~gi:15801197 flagellar basal body P-ring protein
+SRR8582162.fasta	contig00013	41528	42469	flgJ	1-942/942	===============	0/0	100.00	98.19	ecoli_vf	gi:15801198	ecoli_vf~~~flgJ~~~gi:15801198 flagellar rod assembly protein/muramidase FlgJ
+SRR8582162.fasta	contig00013	42535	44178	flgK	1-1644/1644	===============	0/0	100.00	98.66	ecoli_vf	gi:15801199	ecoli_vf~~~flgK~~~gi:15801199 flagellar hook-associated protein FlgK
+SRR8582162.fasta	contig00013	44190	45143	flgL	1-954/954	===============	0/0	100.00	96.75	ecoli_vf	gi:15801200	ecoli_vf~~~flgL~~~gi:15801200 flagellar hook-associated protein FlgL
+SRR8582162.fasta	contig00013	84513	84624	entD	1-114/771	===...../......	1/2	14.53	82.46	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00013	84639	85427	ycfz	1-789/789	========/======	2/2	99.87	90.00	ecoli_vf	SPG000092	ecoli_vf~~~ycfz~~~SPG000092 putative factor
+SRR8582162.fasta	contig00014	65658	66896	hofq	1-1239/1239	===============	0/0	100.00	98.63	ecoli_vf	SPG000051	ecoli_vf~~~hofq~~~SPG000051 Outer membrane secretin Adherence Hemorrhagic coli pilus
+SRR8582162.fasta	contig00015	64918	65649	artj	1-732/732	===============	0/0	100.00	96.72	ecoli_vf	SPG000096	ecoli_vf~~~artj~~~SPG000096 E.coli artP artI artQ artM and artJ genes.
+SRR8582162.fasta	contig00015	65652	65788	entD	1-137/771	===...../......	2/2	17.64	84.78	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00016	14682	16857	cadA	1-2176/2176	===============	0/0	100.00	99.63	ecoli_vf	SPG000027	ecoli_vf~~~cadA~~~SPG000027 gb|AY319765.1|:1081-3256 Escherichia coli cadBA operon partial sequence
+SRR8582162.fasta	contig00016	82584	83876	espX5	1-1293/1293	===============	0/0	100.00	95.67	ecoli_vf	gi:291285483	ecoli_vf~~~espX5~~~gi:291285483 hypothetical protein
+SRR8582162.fasta	contig00017	79683	80771	cfaD	1-1089/1089	===============	0/0	100.00	99.91	ecoli_vf	gi:157157077	ecoli_vf~~~cfaD~~~gi:157157077 pilus biogenesis initiator protein
+SRR8582162.fasta	contig00017	80768	83470	cfaC	1-2703/2703	===============	0/0	100.00	99.81	ecoli_vf	gi:157158530	ecoli_vf~~~cfaC~~~gi:157158530 hypothetical protein
+SRR8582162.fasta	contig00017	83544	84044	cfaB	1-501/501	===============	0/0	100.00	99.80	ecoli_vf	gi:260845908	ecoli_vf~~~cfaB~~~gi:260845908 fimbrial subunit
+SRR8582162.fasta	contig00017	84074	84790	cfaA	1-717/717	===============	0/0	100.00	100.00	ecoli_vf	gi:157155469	ecoli_vf~~~cfaA~~~gi:157155469 hypothetical protein
+SRR8582162.fasta	contig00017	90484	90618	entD	1-136/771	===...../......	2/3	17.38	81.75	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00018	14073	15695	nadb	1-1623/1623	===============	0/0	100.00	97.41	ecoli_vf	SPG000049	ecoli_vf~~~nadb~~~SPG000049 Escherichia coli str. K-12 substr. MG1655 complete genome
+SRR8582162.fasta	contig00018	70758	70863	entD	14-122/771	===...../......	3/5	13.62	85.45	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00019	33396	33499	entD	11-114/771	===...../......	2/2	13.36	89.52	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00019	47217	49094	espL3	1-1878/1878	===============	0/0	100.00	99.36	ecoli_vf	SPG000024	ecoli_vf~~~espL3~~~SPG000024 gi|47118301:4652971-4654848 Escherichia coli O157:H7 str. Sakai DNA complete genome PTS system arbutin-like IIC component
+SRR8582162.fasta	contig00020	29652	30704	Z1307	1-1041/1041	========/======	1/12	100.00	94.78	ecoli_vf	gi:15800816	ecoli_vf~~~Z1307~~~gi:15800816 outer membrane protein A
+SRR8582162.fasta	contig00020	45059	45796	ycbF	1-738/738	===============	0/0	100.00	98.24	ecoli_vf	gi:15804987	ecoli_vf~~~ycbF~~~gi:15804987 putativi pili assembly chaperone
+SRR8582162.fasta	contig00020	45762	46325	ycbV	1-564/564	===============	0/0	100.00	98.76	ecoli_vf	gi:15800803	ecoli_vf~~~ycbV~~~gi:15800803 putative fimbrial-like protein
+SRR8582162.fasta	contig00020	46285	46761	ycbU	1-477/477	===============	0/0	100.00	100.00	ecoli_vf	gi:15800802	ecoli_vf~~~ycbU~~~gi:15800802 hypothetical protein
+SRR8582162.fasta	contig00020	46929	47909	ycbT	1-981/981	===============	0/0	100.00	97.66	ecoli_vf	gi:15800801	ecoli_vf~~~ycbT~~~gi:15800801 fimbrial protein
+SRR8582162.fasta	contig00020	47900	50500	ycbS	1-2601/2601	===============	0/0	100.00	97.89	ecoli_vf	gi:15804976	ecoli_vf~~~ycbS~~~gi:15804976 PapC-like porin protein involved in fimbrial biogenesis
+SRR8582162.fasta	contig00020	50525	51226	ycbR	1-702/702	===============	0/0	100.00	97.44	ecoli_vf	gi:15800800	ecoli_vf~~~ycbR~~~gi:15800800 putative chaperone
+SRR8582162.fasta	contig00020	51309	51860	ycbQ	1-549/549	========/======	1/3	100.00	82.43	ecoli_vf	gi:15800799	ecoli_vf~~~ycbQ~~~gi:15800799 putative fimbrial-like protein
+SRR8582162.fasta	contig00020	65400	65536	entD	1-137/771	===...../......	2/2	17.64	87.68	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00022	933	1103	clpV	2032-2202/2760	...........=...	0/0	6.20	77.19	ecoli_vf	gi:410484148	ecoli_vf~~~clpV~~~gi:410484148 ATP-dependent Clp proteinase ATP-binding subunit
+SRR8582162.fasta	contig00024	5253	7439	ehaA	1798-3984/3984	......=========	0/0	54.89	99.91	ecoli_vf	gi:157158257	ecoli_vf~~~ehaA~~~gi:157158257 outer membrane autotransporter
+SRR8582162.fasta	contig00024	67669	68974	ehaB	1-1276/2949	=======./......	8/36	43.17	91.22	ecoli_vf	gi:222155165	ecoli_vf~~~ehaB~~~gi:222155165 structural protein
+SRR8582162.fasta	contig00025	2073	3873	ehaA	1-1801/3984	=======........	0/0	45.21	99.94	ecoli_vf	gi:157158257	ecoli_vf~~~ehaA~~~gi:157158257 outer membrane autotransporter
+SRR8582162.fasta	contig00025	20472	24662	eaeH	1-4191/4191	===============	0/0	100.00	99.09	ecoli_vf	gi:157156471	ecoli_vf~~~eaeH~~~gi:157156471 EaeH
+SRR8582162.fasta	contig00025	27745	28335	ecpR	1-591/591	===============	0/0	100.00	99.49	ecoli_vf	gi:410484079	ecoli_vf~~~ecpR~~~gi:410484079 transcriptional regulator
+SRR8582162.fasta	contig00025	28410	28997	ecpA	1-588/588	===============	0/0	100.00	100.00	ecoli_vf	gi:16128278	ecoli_vf~~~ecpA~~~gi:16128278 conserved protein
+SRR8582162.fasta	contig00025	29006	29724	ecpB	1-717/717	========/======	1/2	100.00	97.91	ecoli_vf	gi:26246301	ecoli_vf~~~ecpB~~~gi:26246301 Hypothetical protein yagY precursor
+SRR8582162.fasta	contig00025	29750	32275	ecpC	1-2526/2526	===============	0/0	100.00	99.84	ecoli_vf	gi:260853521	ecoli_vf~~~ecpC~~~gi:260853521 outer membrane usher protein
+SRR8582162.fasta	contig00025	32265	33908	ecpD	1-1644/1644	===============	0/0	100.00	100.00	ecoli_vf	gi:260853520	ecoli_vf~~~ecpD~~~gi:260853520 hypothetical protein
+SRR8582162.fasta	contig00025	33832	34587	matF	1-756/756	===============	0/0	100.00	97.62	ecoli_vf	VFG045787	ecoli_vf~~~matF~~~VFG045787 Mat/Ecp fimbriae periplasmic chaperone protein
+SRR8582162.fasta	contig00026	4862	7783	cah	1-2922/2922	===============	0/0	100.00	94.63	ecoli_vf	gi:387610190	ecoli_vf~~~cah~~~gi:387610190 putative adhesin autotransporter
+SRR8582162.fasta	contig00026	18536	19072	gspM	1-537/537	===============	0/0	100.00	100.00	ecoli_vf	gi:157154814	ecoli_vf~~~gspM~~~gi:157154814 putative general secretion pathway protein YghD
+SRR8582162.fasta	contig00026	19074	20252	gspL	1-1179/1179	===============	0/0	100.00	100.00	ecoli_vf	gi:157156601	ecoli_vf~~~gspL~~~gi:157156601 GspL-like protein
+SRR8582162.fasta	contig00026	20249	21226	gspK	1-978/978	===============	0/0	100.00	97.65	ecoli_vf	gi:157155920	ecoli_vf~~~gspK~~~gi:157155920 general secretion pathway protein K
+SRR8582162.fasta	contig00026	21229	21828	gspJ	1-600/600	===============	0/0	100.00	99.50	ecoli_vf	gi:157157609	ecoli_vf~~~gspJ~~~gi:157157609 general secretion pathway protein J
+SRR8582162.fasta	contig00026	21825	22196	gspI	1-372/372	===============	0/0	100.00	96.77	ecoli_vf	gi:157156956	ecoli_vf~~~gspI~~~gi:157156956 general secretion pathway protein I
+SRR8582162.fasta	contig00026	22193	22756	gspH	1-564/564	===============	0/0	100.00	97.69	ecoli_vf	gi:157158634	ecoli_vf~~~gspH~~~gi:157158634 general secretion pathway protein H
+SRR8582162.fasta	contig00026	22760	23215	gspG	1-456/456	===============	0/0	100.00	99.78	ecoli_vf	gi:157157959	ecoli_vf~~~gspG~~~gi:157157959 general secretion pathway protein G
+SRR8582162.fasta	contig00026	23232	24455	gspF	1-1224/1224	===============	0/0	100.00	98.78	ecoli_vf	gi:157154920	ecoli_vf~~~gspF~~~gi:157154920 general secretion pathway protein F
+SRR8582162.fasta	contig00026	24455	25948	gspE	1-1494/1494	===============	0/0	100.00	98.33	ecoli_vf	gi:157159001	ecoli_vf~~~gspE~~~gi:157159001 general secretory pathway protein E
+SRR8582162.fasta	contig00026	25948	28008	gspD	1-2061/2061	===============	0/0	100.00	98.88	ecoli_vf	gi:157157281	ecoli_vf~~~gspD~~~gi:157157281 general secretion pathway protein D
+SRR8582162.fasta	contig00026	28038	28997	gspC	1-960/960	===============	0/0	100.00	99.06	ecoli_vf	gi:157156659	ecoli_vf~~~gspC~~~gi:157156659 putative type II secretion protein GspC
+SRR8582162.fasta	contig00026	29015	29425	yghg	1-411/411	===============	0/0	100.00	98.78	ecoli_vf	SPG000136	ecoli_vf~~~yghg~~~SPG000136 Pilotin Secretion system Type II Secretion System
+SRR8582162.fasta	contig00026	29491	30300	b2972	1-810/810	===============	0/0	100.00	95.80	ecoli_vf	SPG000090	ecoli_vf~~~b2972~~~SPG000090 Prepilin peptidase Adherence Hemorrhagic coli pilus
+SRR8582162.fasta	contig00028	20941	21079	aslA	1-139/1428	==.............	0/0	9.73	97.12	ecoli_vf	gi:9965749	ecoli_vf~~~aslA~~~gi:9965749 putative arylsulfatase
+SRR8582162.fasta	contig00030	21371	21489	entD	1-119/771	===...../......	2/2	15.30	88.33	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00031	8593	8723	entD	11-140/771	===...../......	2/3	16.73	85.61	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00032	31551	32882	espR1	1-1332/1332	===============	0/0	100.00	99.78	ecoli_vf	gi:260843778	ecoli_vf~~~espR1~~~gi:260843778 T3SS effector-like protein EspR-homolog
+SRR8582162.fasta	contig00032	50172	51895	aec15	386-2109/2109	..=============	0/0	81.74	100.00	ecoli_vf	gi:157158133	ecoli_vf~~~aec15~~~gi:157158133 ImpA family type VI secretion-associated protein
+SRR8582162.fasta	contig00033	49585	50290	espX4	876-1581/1581	........=======	0/0	44.66	94.19	ecoli_vf	gi:15804631	ecoli_vf~~~espX4~~~gi:15804631 Type III secretion system effector EspX4
+SRR8582162.fasta	contig00034	20783	20913	entD	1-131/771	===...../......	2/2	16.86	87.88	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00034	49118	49249	entD	1-132/771	===...../......	2/2	16.99	84.96	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00035	37977	38284	iss2	1-308/309	===============	0/0	99.68	95.78	ecoli_vf	SPG000143	ecoli_vf~~~iss2~~~SPG000143 Escherichia coli Iss (iss) gene complete cds.
+SRR8582162.fasta	contig00036	236	1006	entD	1-771/771	===============	0/0	100.00	94.03	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00036	1031	3271	fepA	1-2241/2241	===============	0/0	100.00	96.79	ecoli_vf	gi:26246561	ecoli_vf~~~fepA~~~gi:26246561 ferrienterobactin outer membrane transporter
+SRR8582162.fasta	contig00036	3514	4716	fes	1-1203/1203	===============	0/0	100.00	96.51	ecoli_vf	gi:26246563	ecoli_vf~~~fes~~~gi:26246563 enterobactin/ferric enterobactin esterase
+SRR8582162.fasta	contig00036	4934	8763	entF	1-3830/3882	===============	0/0	98.66	95.85	ecoli_vf	gi:26246565	ecoli_vf~~~entF~~~gi:26246565 enterobactin synthase multienzyme complex component ATP-dependent
+SRR8582162.fasta	contig00036	9032	10165	fepE	1-1134/1134	===============	0/0	100.00	94.18	ecoli_vf	gi:26246566	ecoli_vf~~~fepE~~~gi:26246566 ferric enterobactin transport protein FepE
+SRR8582162.fasta	contig00036	10162	10977	fepC	1-816/816	===============	0/0	100.00	97.18	ecoli_vf	gi:26246567	ecoli_vf~~~fepC~~~gi:26246567 ferrienterobactin ABC transporter ATPase
+SRR8582162.fasta	contig00036	10974	11966	fepG	1-993/993	===============	0/0	100.00	94.76	ecoli_vf	gi:26246568	ecoli_vf~~~fepG~~~gi:26246568 iron-enterobactin ABC transporter permease
+SRR8582162.fasta	contig00036	11963	12979	fepD	1-1017/1017	===============	0/0	100.00	96.36	ecoli_vf	gi:26246569	ecoli_vf~~~fepD~~~gi:26246569 ferrienterobactin ABC transporter permease
+SRR8582162.fasta	contig00036	13078	14328	entS	1-1251/1251	===============	0/0	100.00	95.60	ecoli_vf	gi:26246570	ecoli_vf~~~entS~~~gi:26246570 enterobactin exporter iron-regulated
+SRR8582162.fasta	contig00036	14332	15288	fepB	1-957/957	===============	0/0	100.00	97.28	ecoli_vf	gi:26246571	ecoli_vf~~~fepB~~~gi:26246571 ferrienterobactin ABC transporter periplasmic binding protein
+SRR8582162.fasta	contig00036	15651	16838	entC	1-1188/1188	===============	0/0	100.00	97.56	ecoli_vf	gi:26246572	ecoli_vf~~~entC~~~gi:26246572 isochorismate synthase 1
+SRR8582162.fasta	contig00036	16848	18458	entE	1-1611/1611	===============	0/0	100.00	95.97	ecoli_vf	gi:26246573	ecoli_vf~~~entE~~~gi:26246573 23-dihydroxybenzoate-AMP ligase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00036	18472	19329	entB	1-858/858	===============	0/0	100.00	98.02	ecoli_vf	gi:26246574	ecoli_vf~~~entB~~~gi:26246574 isochorismatase
+SRR8582162.fasta	contig00036	19329	20075	entA	1-747/747	===============	0/0	100.00	95.98	ecoli_vf	gi:26246575	ecoli_vf~~~entA~~~gi:26246575 23-dihydro-23-dihydroxybenzoate dehydrogenase
+SRR8582162.fasta	contig00037	183	693	ECO103_3357	1-510/510	========/======	1/1	100.00	98.83	ecoli_vf	gi:260845460	ecoli_vf~~~ECO103_3357~~~gi:260845460 hypothetical protein
+SRR8582162.fasta	contig00037	742	2127	EcE24377A_3124	1-1386/1539	==============.	0/0	90.06	99.93	ecoli_vf	gi:157155143	ecoli_vf~~~EcE24377A_3124~~~gi:157155143 hypothetical protein
+SRR8582162.fasta	contig00037	2126	2260	EcE24377A_3129	1033-1167/2646	.....==........	0/0	5.10	100.00	ecoli_vf	gi:157155408	ecoli_vf~~~EcE24377A_3129~~~gi:157155408 ClpA/ClpB family protein
+SRR8582162.fasta	contig00037	2259	2623	EC958_3095	1693-2056/2379	......../.====.	1/1	15.30	95.07	ecoli_vf	VFG045808	ecoli_vf~~~EC958_3095~~~VFG045808 hypothetical protein
+SRR8582162.fasta	contig00037	2614	2688	ECO103_3372	1006-1080/1080	.............==	0/0	6.94	98.67	ecoli_vf	gi:260845475	ecoli_vf~~~ECO103_3372~~~gi:260845475 hypothetical protein
+SRR8582162.fasta	contig00037	2669	3205	ECO103_3373	1-537/537	===============	0/0	100.00	100.00	ecoli_vf	gi:260845476	ecoli_vf~~~ECO103_3373~~~gi:260845476 hypothetical protein
+SRR8582162.fasta	contig00037	3209	3637	ECO103_3374	1-429/429	===============	0/0	100.00	99.77	ecoli_vf	gi:260845477	ecoli_vf~~~ECO103_3374~~~gi:260845477 hypothetical protein
+SRR8582162.fasta	contig00037	3637	5013	EcE24377A_3135	1-1377/1377	===============	0/0	100.00	100.00	ecoli_vf	gi:157156697	ecoli_vf~~~EcE24377A_3135~~~gi:157156697 ImpA-related N-terminal domain-containing protein
+SRR8582162.fasta	contig00037	20656	20979	ppdc	1-324/324	===============	0/0	100.00	97.53	ecoli_vf	SPG000140	ecoli_vf~~~ppdc~~~SPG000140 Pilin-like protein minor pilin or pseudopilin Adherence Hemorrhagic coli pilus
+SRR8582162.fasta	contig00037	20964	21371	ygdb	1-408/408	===============	0/0	100.00	95.10	ecoli_vf	SPG000137	ecoli_vf~~~ygdb~~~SPG000137 Pilin-like protein minor pilin or pseudo pilin Adherence Hemorrhagic coli pilus
+SRR8582162.fasta	contig00037	21368	21931	ppdb	1-564/564	===============	0/0	100.00	98.76	ecoli_vf	SPG000112	ecoli_vf~~~ppdb~~~SPG000112 Pilin-like protein minor pilin or pseudo pilin Adherence Hemorrhagic coli pilus
+SRR8582162.fasta	contig00037	21922	22392	ppda	1-471/471	===============	0/0	100.00	98.73	ecoli_vf	SPG000131	ecoli_vf~~~ppda~~~SPG000131 Pilin-like protein minor pilin or pseudo pilin Adherence Hemorrhagic coli pilus
+SRR8582162.fasta	contig00038	2736	2851	entD	1-117/771	===...../......	1/1	15.05	88.03	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00038	12588	12697	entD	15-124/771	===...../......	2/2	14.14	87.39	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00038	23266	24999	ibeC	1-1734/1734	===============	0/0	100.00	98.90	ecoli_vf	gi:157157305	ecoli_vf~~~ibeC~~~gi:157157305 hypothetical protein
+SRR8582162.fasta	contig00042	7163	8737	espL4	1-1575/1575	===============	0/0	100.00	98.98	ecoli_vf	gi:260870723	ecoli_vf~~~espL4~~~gi:260870723 T3SS effector-like protein EspL
+SRR8582162.fasta	contig00042	39931	40765	espX4	1-834/1581	========/......	3/3	52.69	92.11	ecoli_vf	gi:15804631	ecoli_vf~~~espX4~~~gi:15804631 Type III secretion system effector EspX4
+SRR8582162.fasta	contig00046	30160	30732	stgA	1-573/573	===============	0/0	100.00	99.83	ecoli_vf	gi:46487739	ecoli_vf~~~stgA~~~gi:46487739 StgA
+SRR8582162.fasta	contig00046	30780	31511	stgB	1-732/732	===============	0/0	100.00	100.00	ecoli_vf	gi:46487740	ecoli_vf~~~stgB~~~gi:46487740 StgB
+SRR8582162.fasta	contig00046	31536	34058	stgC	1-2523/2523	===============	0/0	100.00	99.76	ecoli_vf	gi:46487741	ecoli_vf~~~stgC~~~gi:46487741 StgC
+SRR8582162.fasta	contig00046	34069	35142	stgD	1-1074/1074	===============	0/0	100.00	99.44	ecoli_vf	gi:46487742	ecoli_vf~~~stgD~~~gi:46487742 StgD
+SRR8582162.fasta	contig00049	20419	25269	upaG/ehaG	1-4851/4851	===============	0/0	100.00	99.98	ecoli_vf	gi:260846630	ecoli_vf~~~upaG/ehaG~~~gi:260846630 adhesin
+SRR8582162.fasta	contig00051	13671	13906	fimD	2519-2754/2754	.............==	0/0	8.57	96.19	ecoli_vf	gi:260871037	ecoli_vf~~~fimD~~~gi:260871037 outer membrane usher protein FimD
+SRR8582162.fasta	contig00053	8579	9183	traJ	1-606/606	========/======	1/1	99.83	98.52	ecoli_vf	gi:150860	ecoli_vf~~~traJ~~~gi:150860 TraJ
+SRR8582162.fasta	contig00058	11004	12386	ibeB	1-1383/1383	===============	0/0	100.00	98.77	ecoli_vf	gi:410483826	ecoli_vf~~~ibeB~~~gi:410483826 copper/silver efflux system outer membrane protein CusC
+SRR8582162.fasta	contig00058	15401	16047	aec15	1-647/2109	=====..........	0/0	30.68	99.54	ecoli_vf	gi:260867900	ecoli_vf~~~aec15~~~gi:260867900 VgrE protein
+SRR8582162.fasta	contig00058	18638	19591	ompt	1-954/954	===============	0/0	100.00	99.79	ecoli_vf	SPG000077	ecoli_vf~~~ompt~~~SPG000077 E. coli ompT gene for outer membrane protease.
+SRR8582162.fasta	contig00059	7366	8280	Z2206	1-915/915	===============	0/0	100.00	98.47	ecoli_vf	gi:15801636	ecoli_vf~~~Z2206~~~gi:15801636 putative adhesin; FimH protein
+SRR8582162.fasta	contig00059	8340	8843	fimG	1-504/504	===============	0/0	100.00	99.60	ecoli_vf	gi:410482685	ecoli_vf~~~fimG~~~gi:410482685 fimbrial-like adhesin protein
+SRR8582162.fasta	contig00059	8856	9386	Z2204	1-531/531	===============	0/0	100.00	99.62	ecoli_vf	gi:15801634	ecoli_vf~~~Z2204~~~gi:15801634 putative fimbrial-like protein
+SRR8582162.fasta	contig00059	9400	12051	Z2203	1-2652/2652	===============	0/0	100.00	98.94	ecoli_vf	gi:15801633	ecoli_vf~~~Z2203~~~gi:15801633 putative fimbrial usher protein
+SRR8582162.fasta	contig00059	12093	12812	Z2201	1-720/720	===============	0/0	100.00	98.47	ecoli_vf	gi:15801632	ecoli_vf~~~Z2201~~~gi:15801632 putative fimbrial chaperone protein
+SRR8582162.fasta	contig00059	13164	13727	Z2200	1-564/564	===============	0/0	100.00	99.11	ecoli_vf	gi:15801631	ecoli_vf~~~Z2200~~~gi:15801631 putative major fimbrial subunit
+SRR8582162.fasta	contig00060	1	127	fimD	2519-2645/2754	.............==	0/0	4.61	100.00	ecoli_vf	gi:260871037	ecoli_vf~~~fimD~~~gi:260871037 outer membrane usher protein FimD
+SRR8582162.fasta	contig00064	5500	7390	etpD	33-1923/1929	========/======	8/12	97.72	76.59	ecoli_vf	gi:75994479	ecoli_vf~~~etpD~~~gi:75994479 type II secretion protein
+SRR8582162.fasta	contig00064	7396	8878	etpE	1-1483/1506	========/======	4/4	98.34	77.78	ecoli_vf	gi:75994480	ecoli_vf~~~etpE~~~gi:75994480 type II secretion protein
+SRR8582162.fasta	contig00064	10153	10578	etpG	1-426/435	===============	0/0	97.93	77.93	ecoli_vf	gi:75994482	ecoli_vf~~~etpG~~~gi:75994482 type II secretion protein
+SRR8582162.fasta	contig00066	127	778	aec22	432-1083/1083	.....==========	0/0	60.20	100.00	ecoli_vf	gi:260842455	ecoli_vf~~~aec22~~~gi:260842455 hypothetical protein
+SRR8582162.fasta	contig00066	782	2083	aec23	1-1302/1302	===============	0/0	100.00	99.69	ecoli_vf	gi:218693689	ecoli_vf~~~aec23~~~gi:218693689 hypothetical protein
+SRR8582162.fasta	contig00066	2080	2604	aec24	1-525/525	===============	0/0	100.00	100.00	ecoli_vf	gi:260842453	ecoli_vf~~~aec24~~~gi:260842453 lipoprotein
+SRR8582162.fasta	contig00066	2607	3588	aec25	1-982/1332	============...	0/0	73.72	99.90	ecoli_vf	gi:260866367	ecoli_vf~~~aec25~~~gi:260866367 hypothetical protein
+SRR8582162.fasta	contig00066	3612	3681	aec31	1284-1353/1353	..............=	0/0	5.17	100.00	ecoli_vf	gi:260842446	ecoli_vf~~~aec31~~~gi:260842446 hypothetical protein
+SRR8582162.fasta	contig00066	3705	4187	aec32	1-483/483	===============	0/0	100.00	100.00	ecoli_vf	gi:260866361	ecoli_vf~~~aec32~~~gi:260866361 Hcp-like protein
+SRR8582162.fasta	contig00068	13095	13727	gadX	1-633/633	===============	0/0	100.00	98.10	ecoli_vf	SPG000043	ecoli_vf~~~gadX~~~SPG000043 gb|ADUM01000070.1|:99762-100394 Escherichia coli 3431 gec3431.assembly.48 whole genome shotgun sequence HTH-type transcriptional regulator gadX
+SRR8582162.fasta	contig00070	6260	8401	vgrG	1-2142/2142	===============	0/0	100.00	97.99	ecoli_vf	gi:15799916	ecoli_vf~~~vgrG~~~gi:15799916 hypothetical protein
+SRR8582162.fasta	contig00070	8497	8721	Z0263	1-225/225	===============	0/0	100.00	100.00	ecoli_vf	gi:15799912	ecoli_vf~~~Z0263~~~gi:15799912 hypothetical protein
+SRR8582162.fasta	contig00070	8772	10247	aec18	1-1476/1476	===============	0/0	100.00	99.86	ecoli_vf	gi:260866372	ecoli_vf~~~aec18~~~gi:260866372 hypothetical protein
+SRR8582162.fasta	contig00070	10254	10667	aec19	1-414/414	===============	0/0	100.00	100.00	ecoli_vf	gi:260842457	ecoli_vf~~~aec19~~~gi:260842457 hypothetical protein
+SRR8582162.fasta	contig00070	10671	12521	ECO111_0230	1-1851/1851	===============	0/0	100.00	99.78	ecoli_vf	gi:260866370	ecoli_vf~~~ECO111_0230~~~gi:260866370 hypothetical protein
+SRR8582162.fasta	contig00070	12479	12924	aec22	1-446/1089	=======........	0/0	40.96	100.00	ecoli_vf	gi:218693690	ecoli_vf~~~aec22~~~gi:218693690 hypothetical protein
+SRR8582162.fasta	contig00071	11416	11591	fimD	2517-2692/2754	.............==	0/0	6.39	95.45	ecoli_vf	gi:260871037	ecoli_vf~~~fimD~~~gi:260871037 outer membrane usher protein FimD
+SRR8582162.fasta	contig00073	1134	2570	hlyD	1-1437/1437	===============	0/0	100.00	99.72	ecoli_vf	gi:386617332	ecoli_vf~~~hlyD~~~gi:386617332 hemolysin secretion protein HlyD
+SRR8582162.fasta	contig00073	2589	4712	hlyB	1-2124/2124	===============	0/0	100.00	99.67	ecoli_vf	gi:386617331	ecoli_vf~~~hlyB~~~gi:386617331 hemolysin translocation ATP-binding protein HlyB
+SRR8582162.fasta	contig00073	4784	7858	hlyA	1-3075/3075	===============	0/0	100.00	99.77	ecoli_vf	gi:386617330	ecoli_vf~~~hlyA~~~gi:386617330 hemolysin structural protein HlyA
+SRR8582162.fasta	contig00073	7870	8382	hlyC	1-513/513	===============	0/0	100.00	99.42	ecoli_vf	gi:386617329	ecoli_vf~~~hlyC~~~gi:386617329 hemolysin-activating lysine-acyltransferase HlyC
+SRR8582162.fasta	contig00076	8031	8266	fimD	2519-2754/2754	.............==	0/0	8.57	96.19	ecoli_vf	gi:260871037	ecoli_vf~~~fimD~~~gi:260871037 outer membrane usher protein FimD
+SRR8582162.fasta	contig00076	10021	10236	stb	1-216/216	===============	0/0	100.00	99.54	ecoli_vf	SPG000008	ecoli_vf~~~stb~~~SPG000008 (TC1_0008) - heat-stable enterotoxin II
+SRR8582162.fasta	contig00077	8654	9412	paa	1-759/759	===============	0/0	100.00	100.00	ecoli_vf	SPG000094	ecoli_vf~~~paa~~~SPG000094 Escherichia coli plasmid pTENT2 porcine attaching-effacing associated protein variant 1 (paa-1) gene complete cds.
+SRR8582162.fasta	contig00078	2385	2520	entD	1-136/771	===...../......	2/2	17.51	86.86	ecoli_vf	gi:26246560	ecoli_vf~~~entD~~~gi:26246560 phosphopantetheinyl transferase component of enterobactin synthase multienzyme complex
+SRR8582162.fasta	contig00099	1986	2204	estIa	1-219/219	===============	0/0	100.00	100.00	ecoli_vf	gi:268507207	ecoli_vf~~~estIa~~~gi:268507207 heat stable enterotoxin I
+SRR8582162.fasta	contig00102	1873	2001	fimD	2517-2645/2754	.............==	0/0	4.68	100.00	ecoli_vf	gi:260871037	ecoli_vf~~~fimD~~~gi:260871037 outer membrane usher protein FimD
+SRR8582162.fasta	contig00141	395	630	fimD	2519-2754/2754	.............==	0/0	8.57	100.00	ecoli_vf	gi:260871037	ecoli_vf~~~fimD~~~gi:260871037 outer membrane usher protein FimD
+SRR8582162.fasta	contig00149	1	127	fimD	2519-2645/2754	.............==	0/0	4.61	100.00	ecoli_vf	gi:260871037	ecoli_vf~~~fimD~~~gi:260871037 outer membrane usher protein FimD
+SRR8582162.fasta	contig00160	128	254	fimD	2519-2645/2754	.............==	0/0	4.61	100.00	ecoli_vf	gi:260871037	ecoli_vf~~~fimD~~~gi:260871037 outer membrane usher protein FimD
+SRR8582162.fasta	contig00161	128	253	fimD	2519-2644/2754	.............==	0/0	4.58	100.00	ecoli_vf	gi:260871037	ecoli_vf~~~fimD~~~gi:260871037 outer membrane usher protein FimD
