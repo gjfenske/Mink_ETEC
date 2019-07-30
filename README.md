@@ -30,4 +30,3 @@ Database : NCBI Bacterial Antimicrobial Resistance Reference Gene Database
 Tool : Abricate \
 Database : Plasmid Finder 
 
-### Metadata
