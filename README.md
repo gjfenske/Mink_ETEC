@@ -12,23 +12,22 @@ Newick file estimating the phylogeny of ADRDL-1929 in relation to circulating E.
 
 #### General Annotation
 
-Tool : Prokka
+Tool : Prokka \
 Database : Bundled prokka database
 
 #### Virulence Factors
 
-Tool : Abricate
+Tool : Abricate \
 Database : Virulence Factor Database
 
 #### Antimicrobial Homologues
 
-Tool : Abricate
+Tool : Abricate \
 Database : NCBI Bacterial Antimicrobial Resistance Reference Gene Database
 
 #### Plasmid Replicons
 
-Tool : Abricate
-Database : 
-Plasmid Finder : 
+Tool : Abricate \
+Database : Plasmid Finder 
 
 ### Metadata
