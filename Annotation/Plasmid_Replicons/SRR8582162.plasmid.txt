@@ -1,0 +1,7 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT
+SRR8582162.fasta	contig00067	13955	14636	IncFIB(AP001918)_1	1-682/682	===============	0/0	100.00	96.77	plasmidfinder	AP001918	plasmidfinder~~~IncFIB(AP001918)_1~~~AP001918 IncFIB(AP001918)_1__AP001918
+SRR8582162.fasta	contig00076	2361	2622	IncFII(pCoo)_1_pCoo	1-262/262	===============	0/0	100.00	96.95	plasmidfinder	CR942285	plasmidfinder~~~IncFII(pCoo)_1_pCoo~~~CR942285 IncFII(pCoo)_1_pCoo_CR942285
+SRR8582162.fasta	contig00084	2243	2373	ColRNAI_1	1-130/130	========/======	1/1	100.00	89.31	plasmidfinder	DQ298019	plasmidfinder~~~ColRNAI_1~~~DQ298019 ColRNAI_1__DQ298019
+SRR8582162.fasta	contig00110	127	388	Col(MG828)_1	1-262/262	===============	0/0	100.00	92.75	plasmidfinder	NC_008486	plasmidfinder~~~Col(MG828)_1~~~NC_008486 Col(MG828)_1__NC_008486
+SRR8582162.fasta	contig00112	64	321	Col(MG828)_1	1-258/262	===============	0/0	98.47	94.19	plasmidfinder	NC_008486	plasmidfinder~~~Col(MG828)_1~~~NC_008486 Col(MG828)_1__NC_008486
+SRR8582162.fasta	contig00112	1570	1633	Col(MG828)_1	195-258/262	...........====	0/0	24.43	95.31	plasmidfinder	NC_008486	plasmidfinder~~~Col(MG828)_1~~~NC_008486 Col(MG828)_1__NC_008486
